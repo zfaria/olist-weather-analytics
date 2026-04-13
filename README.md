@@ -184,10 +184,13 @@ Baseado no dashboard:
 | **Taxa de Atraso** | 7% |
 
 ### Achados-chave:
-- 📍 **Região Sudeste** domina 60% da receita (São Paulo + Rio)
-- 🌧️ **Dias chuvosos** mostram padrão de compra **+15%** em eletrônicos
-- 🔥 **Calor extremo** reduz vendas de **moda/esportes** em -8%
-- 📦 **Atrasos aumentam 12%** em períodos de chuva intensa
+- 📍 **Região Sudeste** domina 69,23% da receita total
+  
+- 🍂**Períodos mais secos do ano** possuem um desempenho melhor de vendas comparados aos períodos chuvosos representando 61,37% da receita total
+  
+- 🎫**O ticket de R$ 125,23** aliado ao uso massivo da forma de pagamento pelo cartão de crédito (76,64%) indica que os clientes possivelmente utilizavam o cartão por conveniência e acúmulo de benefícios, não apenas por necessidade de parcelamento. Lembrando que no período em questão ainda não existia a forma de pagamento pelo PIX onde alguns lojistas realizam descontos no pagamento por esse meio
+  
+- 📦 **Atrasos aumentam para 10%** em períodos de chuva intensa
 
 ---
 
