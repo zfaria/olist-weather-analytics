@@ -283,14 +283,5 @@ Este projeto é licenciado sob a **MIT License** — veja [LICENSE](LICENSE) par
 
 ---
 
-## 🙏 Agradecimentos
-
-- **Olist** pelo dataset público de e-commerce
-- **Open-Meteo** pelos dados climáticos históricos gratuitos
-- **Kaggle** pela comunidade e dados
-- **Power BI** pela visualização incrível
-
----
-
 **Última atualização:** Abril 2026  
 **Status:** ✅ Produção
