@@ -1,0 +1,44 @@
+# =============================================================================
+#  .gitignore — Olist Weather Analytics
+# =============================================================================
+
+# Chaves e segredos — NUNCA subir
+.env
+
+# Dados brutos (arquivos grandes)
+data/
+*.csv
+*.parquet
+*.zip
+
+# Output Power BI (gerado pelo script)
+output_powerbi/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+.tema-olist.json
