@@ -10,7 +10,7 @@
 
 🔗 **[Abrir Dashboard Interativo](https://app.powerbi.com/links/seu-link-aqui)**
 
-![Preview Dashboard](https://via.placeholder.com/800x450?text=Olist+Weather+Analytics+Dashboard)
+![Preview Dashboard](assets/dashboard.png)
 
 ---
 
