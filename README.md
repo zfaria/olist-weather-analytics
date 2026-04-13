@@ -1,5 +1,9 @@
 # 🌦️ Olist Weather Analytics — Clima & E-commerce no Brasil
 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario)
+
 > **Pergunta de negócio:** Como as condições climáticas afetam o volume e ticket médio de vendas nas diferentes regiões e categorias do Brasil?
 
 ## 📊 Dashboard Power BI
