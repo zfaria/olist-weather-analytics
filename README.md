@@ -10,7 +10,7 @@
 
 🔗 **[Abrir Dashboard Interativo](https://app.powerbi.com/links/seu-link-aqui)**
 
-![Preview Dashboard](assets/dashboard.png)
+
 
 ---
 
